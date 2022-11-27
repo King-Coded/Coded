@@ -1,0 +1,26 @@
+body {
+    height: 1000px;
+}
+
+#bad {
+    color: blue;
+}
+
+#problem {
+    height: calc(100vh - 54px);
+    background-image: url('https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_960_720.jpg');
+    background-size: cover;
+}
+
+.page-section {
+    padding: 6rem 0;
+}
+
+.ml-5 {
+    margin: 0 0 0 50px;
+}
+
+.mr-3,
+.m-0 {
+    text-decoration: none;
+}
